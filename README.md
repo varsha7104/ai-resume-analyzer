@@ -2,21 +2,35 @@
 AI-powered Resume Analyzer built with React & Puter.js. Includes seamless auth, upload and store resumes, and match candidates to jobs using smart AI evaluations. All wrapped in a clean, reusable UI.
 
 
-## 📋 Features
+## 🔋  Features
 
-- **🔍 Automated Resume Parsing**
-- **🧠 Skill Matching & Gap Detection**
-- **✅ ATS Compatibility Check**
-- **📊 Score & Feedback System**
-- **🗝️ Keyword Optimization**
+-- **👉 Easy & convenient auth:** Handle authentication entirely in the browser using Puter.js—no backend or setup required.
 
-## Table of Contents
+- **👉 Resume upload & storage:** Let users upload and store all their resumes in one place, safely and reliably.
 
-- [🔍 Automated Resume Parsing](#-automated-resume-parsing)
-- [🧠 Skill Matching & Gap Detection](#-skill-matching--gap-detection)
-- [✅ ATS Compatibility Check](#-ats-compatibility-check)
-- [📊 Score & Feedback System](#-score--feedback-system)
-- [🗝️ Keyword Optimization](#-keyword-optimization)
+- **👉 AI resume matching:** Provide a job listing and get an ATS score with custom feedback tailored to each resume.
+
+- **👉 Reusable, modern UI:** Built with clean, consistent components for a great-looking and maintainable interface.
+
+- **👉 Code Reusability:** Leverage reusable components and a modular codebase for efficient development.
+
+- **👉 Cross-Device Compatibility:** Fully responsive design that works seamlessly across all devices.
+
+- **👉 Modern UI/UX:** Clean, responsive design built with Tailwind CSS and shadcn/ui for a sleek user experience.
+
+- **👉 And many more:** Including code architecture and reusability.
+
+
+
+## 📋 Table of Contents
+
+- [✨ Introduction](#-introduction)
+- [⚙️ Tech Stack](#-tech-stack)
+- [🔋 Features](#-features)
+- [🤸 Quick Start](#-quick-start)
+- [🔗 Assets](#-assets)
+- [🚀 More](#-more)
+
 
 
 
