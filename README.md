@@ -1,10 +1,5 @@
-# Welcome to AI RESUME ANALYZER!
-AI-powered Resume Analyzer built with React & Puter.js. Includes seamless auth, upload and store resumes, and match candidates to jobs using smart AI evaluations. All wrapped in a clean, reusable UI.
-
-
 # 🧠 AI Resume Analyzer
-
-Build this project step by step with our detailed tutorial on [JavaScript Mastery YouTube](https://www.youtube.com/c/JavaScriptMastery). Join the JSM family!
+AI-powered Resume Analyzer built with React & Puter.js. Includes seamless auth, upload and store resumes, and match candidates to jobs using smart AI evaluations. All wrapped in a clean, reusable UI.
 
 ---
 
@@ -80,11 +75,7 @@ Make sure you have the following installed:
 - Node.js  
 - npm (Node Package Manager)
 
-### 📥 Clone the Repository
 
-```bash
-git clone https://github.com/adrianhajdin/ai-resume-analyzer.git
-cd ai-resume-analyzer
 
 
 
@@ -122,91 +113,4 @@ cd ai-resume-analyzer
 
 <img width="1366" height="768" alt="Screenshot (92)" src="https://github.com/user-attachments/assets/cc7a6085-7808-4bef-b42c-e226040193aa" />
 
-## 🔋  Features
 
--- **👉 Easy & convenient auth:** Handle authentication entirely in the browser using Puter.js—no backend or setup required.
-
-- **👉 Resume upload & storage:** Let users upload and store all their resumes in one place, safely and reliably.
-
-- **👉 AI resume matching:** Provide a job listing and get an ATS score with custom feedback tailored to each resume.
-
-- **👉 Reusable, modern UI:** Built with clean, consistent components for a great-looking and maintainable interface.
-
-- **👉 Code Reusability:** Leverage reusable components and a modular codebase for efficient development.
-
-- **👉 Cross-Device Compatibility:** Fully responsive design that works seamlessly across all devices.
-
-- **👉 Modern UI/UX:** Clean, responsive design built with Tailwind CSS and shadcn/ui for a sleek user experience.
-
-- **👉 And many more:** Including code architecture and reusability.
-
-
-### Installation
-
-Install the dependencies:
-
-```bash
-npm install
-```
-
-### Development
-
-Start the development server with HMR:
-
-```bash
-npm run dev
-```
-
-Your application will be available at `http://localhost:5173`.
-
-## Building for Production
-
-Create a production build:
-
-```bash
-npm run build
-```
-
-## Deployment
-
-### Docker Deployment
-
-To build and run using Docker:
-
-```bash
-docker build -t my-app .
-
-# Run the container
-docker run -p 3000:3000 my-app
-```
-
-The containerized application can be deployed to any platform that supports Docker, including:
-
-- AWS ECS
-- Google Cloud Run
-- Azure Container Apps
-- Digital Ocean App Platform
-- Fly.io
-- Railway
-
-### DIY Deployment
-
-If you're familiar with deploying Node applications, the built-in app server is production-ready.
-
-Make sure to deploy the output of `npm run build`
-
-```
-├── package.json
-├── package-lock.json (or pnpm-lock.yaml, or bun.lockb)
-├── build/
-│   ├── client/    # Static assets
-│   └── server/    # Server-side code
-```
-
-## Styling
-
-This template comes with [Tailwind CSS](https://tailwindcss.com/) already configured for a simple default starting experience. You can use whatever CSS framework you prefer.
-
----
-
-Built with ❤️ using React Router.
