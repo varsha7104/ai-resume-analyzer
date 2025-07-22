@@ -13,7 +13,7 @@ AI-powered Resume Analyzer built with React & Puter.js. Includes seamless auth, 
 - 📖 [React Router docs](https://reactrouter.com/)
 
 ## Getting Started
-
+![Capture](https://github.com/user-attachments/assets/e2fc2716-cc21-4544-bf1c-e23782eefc4a)
 ### Installation
 
 Install the dependencies:
