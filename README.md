@@ -4,13 +4,19 @@ AI-powered Resume Analyzer built with React & Puter.js. Includes seamless auth, 
 
 ## Features
 
-- 🚀 Server-side rendering
-- ⚡️ Hot Module Replacement (HMR)
-- 📦 Asset bundling and optimization
-- 🔄 Data loading and mutations
-- 🔒 TypeScript by default
-- 🎉 TailwindCSS for styling
-- 📖 [React Router docs](https://reactrouter.com/)
+- :
+
+🔍 Automated Resume Parsing
+
+🧠 Skill Matching & Gap Detection
+
+✅ ATS Compatibility Check
+
+📊 Score & Feedback System
+
+🗝️ Keyword Optimization
+
+
 
 ## Getting Started
 <img width="1366" height="768" alt="Screenshot (70)" src="https://github.com/user-attachments/assets/15effde5-9b9f-4959-94fb-0ae15450809b" />
