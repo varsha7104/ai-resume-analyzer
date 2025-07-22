@@ -1,7 +1,5 @@
 # Welcome to AI RESUME ANALYZER!
-
-A modern, production-ready template for building full-stack React applications using React Router.
-
+AI-powered Resume Analyzer built with React & Puter.js. Includes seamless auth, upload and store resumes, and match candidates to jobs using smart AI evaluations. All wrapped in a clean, reusable UI.
 [![Open in StackBlitz](https://developer.stackblitz.com/img/open_in_stackblitz.svg)](https://stackblitz.com/github/remix-run/react-router-templates/tree/main/default)
 
 ## Features
