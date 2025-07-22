@@ -59,7 +59,7 @@ If you're getting started and need assistance or face any bugs, join our active 
 
 - **👉 Modern UI/UX:** Clean, responsive design built with Tailwind CSS and shadcn/ui for a sleek user experience.
 
-- **👉 And many more:** Including code architecture and reusability.
+- 
 
 ---
 
@@ -67,11 +67,29 @@ If you're getting started and need assistance or face any bugs, join our active 
 
 
 
+### 🔧 Requirements
+
+- Node.js (v18+)
+- Git
+- Puter CLI  
+  Install it with:
+  ```bash
+  npm install -g puter
 
 
-## Getting Started
+##  Home page and resume card creation 
+🧩 Components Overview
+
+🏠 Homepage & Navbar
+
+I created a clean homepage with a top navbar using React and Tailwind CSS. The navbar includes links to the Upload and Analyze sections, making navigation simple and user-friendly.
+
+📄 Resume Card
+
+The Resume Card displays the uploaded resume preview and AI-generated insights. I built it as a reusable component that shows key details like extracted skills, experience, and summary. It’s styled for clarity and responsiveness.
+
 <img width="1366" height="768" alt="Screenshot (70)" src="https://github.com/user-attachments/assets/15effde5-9b9f-4959-94fb-0ae15450809b" />
-<img width="1366" height="768" alt="Screenshot (71)" src="https://github.com/user-attachments/assets/4fa691ab-5f38-4f1e-88ac-47ee63c3d731" />
+
 <img width="1366" height="768" alt="Screenshot (72)" src="https://github.com/user-attachments/assets/0b1479d6-ba14-4928-b3b0-567b02a4198d" />
 
 <img width="1366" height="768" alt="Screenshot (73)" src="https://github.com/user-attachments/assets/15c127c3-31ec-4008-8082-2b9b0164233d" />
