@@ -11,7 +11,7 @@ AI-powered Resume Analyzer built with React & Puter.js. Includes seamless auth, 
 - [🤸 Project WalkThrough](#-project-walkthrough)
 - [🔗 Assets](#-assets)
 - [🚀 More](#-more)
-- [🚨 Tutorial](#-tutorial)
+
 
 ---
 
