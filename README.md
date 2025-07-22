@@ -90,7 +90,7 @@ The Resume Card displays the uploaded resume preview and AI-generated insights. 
 
 <img width="1366" height="768" alt="Screenshot (70)" src="https://github.com/user-attachments/assets/15effde5-9b9f-4959-94fb-0ae15450809b" />
 
-<img width="1366" height="768" alt="Screenshot (72)" src="https://github.com/user-attachments/assets/0b1479d6-ba14-4928-b3b0-567b02a4198d" />
+
 
 <img width="1366" height="768" alt="Screenshot (73)" src="https://github.com/user-attachments/assets/15c127c3-31ec-4008-8082-2b9b0164233d" />
 <img width="1366" height="768" alt="Screenshot (74)" src="https://github.com/user-attachments/assets/8ff6f9c0-984e-4bc3-8589-2c713e9f08b4" />
