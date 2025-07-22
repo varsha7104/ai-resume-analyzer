@@ -2,19 +2,21 @@
 AI-powered Resume Analyzer built with React & Puter.js. Includes seamless auth, upload and store resumes, and match candidates to jobs using smart AI evaluations. All wrapped in a clean, reusable UI.
 
 
-## Features
+## 📋 Features
 
-- :
+- **🔍 Automated Resume Parsing**
+- **🧠 Skill Matching & Gap Detection**
+- **✅ ATS Compatibility Check**
+- **📊 Score & Feedback System**
+- **🗝️ Keyword Optimization**
 
-🔍 Automated Resume Parsing
+## Table of Contents
 
-🧠 Skill Matching & Gap Detection
-
-✅ ATS Compatibility Check
-
-📊 Score & Feedback System
-
-🗝️ Keyword Optimization
+- [🔍 Automated Resume Parsing](#-automated-resume-parsing)
+- [🧠 Skill Matching & Gap Detection](#-skill-matching--gap-detection)
+- [✅ ATS Compatibility Check](#-ats-compatibility-check)
+- [📊 Score & Feedback System](#-score--feedback-system)
+- [🗝️ Keyword Optimization](#-keyword-optimization)
 
 
 
