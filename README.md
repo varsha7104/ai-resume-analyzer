@@ -96,13 +96,14 @@ Here I have did the authentication  using puter ai .Puter AI facilitates the use
 <img width="1366" height="768" alt="Screenshot (73)" src="https://github.com/user-attachments/assets/15c127c3-31ec-4008-8082-2b9b0164233d" />
 
 ![MixCollage-23-Jul-2025-06-13-PM-9467](https://github.com/user-attachments/assets/f3bdda39-6307-4906-a5fc-19f50efc17e4)
-
-<img width="1366" height="768" alt="Screenshot (76)" src="https://github.com/user-attachments/assets/d76a003b-700d-4555-81b9-bb0b6b8e7d48" />
+# Upload File Component
+The Resume Upload component is embedded inside the resume card for a smooth user experience. It uses react-dropzone to support drag-and-drop or manual PDF uploads. Once uploaded, the resume is previewed and sent for AI analysis.
 
 
 <img width="1366" height="768" alt="Screenshot (77)" src="https://github.com/user-attachments/assets/5c40f977-3c01-47c2-815d-261dd6eb92c0" />
-<img width="1366" height="768" alt="Screenshot (78)" src="https://github.com/user-attachments/assets/27e9a11f-9be9-4573-ae60-ccf23c55f423" />
+
 <img width="1366" height="768" alt="Screenshot (79)" src="https://github.com/user-attachments/assets/8de848d4-f000-4388-9f24-9318b3a2b040" />
+
 <img width="1366" height="768" alt="Screenshot (80)" src="https://github.com/user-attachments/assets/0e8cf8f5-20df-41af-b9f6-ca46710e4307" />
 <img width="1366" height="768" alt="Screenshot (81)" src="https://github.com/user-attachments/assets/43844005-61e5-44f2-989e-905d519cf556" />
 <img width="1366" height="768" alt="Screenshot (83)" src="https://github.com/user-attachments/assets/30c11f0b-4056-4f32-8145-03f47284fd29" />
