@@ -98,31 +98,31 @@ I created a clean homepage with a top navbar using React and Tailwind CSS. The n
 The Resume Card displays the uploaded resume preview and AI-generated insights. I built it as a reusable component that shows key details like extracted skills, experience, and summary. It’s styled for clarity and responsiveness.
 
 <img width="1366" height="768" alt="Screenshot (70)" src="https://github.com/user-attachments/assets/15effde5-9b9f-4959-94fb-0ae15450809b" />
-# Authentication and Starting with Puter AI setup
+# 🔐 Authentication & Puter AI
 Here I have did the authentication  using puter ai .Puter AI facilitates the use of various AI technologies within applications, particularly for developers who want to easily integrate AI features without managing extensive backend infrastructure.
 
 
 <img width="1366" height="768" alt="Screenshot (73)" src="https://github.com/user-attachments/assets/15c127c3-31ec-4008-8082-2b9b0164233d" />
 
 ![MixCollage-23-Jul-2025-06-13-PM-9467](https://github.com/user-attachments/assets/f3bdda39-6307-4906-a5fc-19f50efc17e4)
-# Upload File Component
+# 📤 Upload File Component
 The Resume Upload component is embedded inside the resume card for a smooth user experience. It uses react-dropzone to support drag-and-drop or manual PDF uploads. Once uploaded, the resume is previewed and sent for AI analysis.
 
 
 <img width="1366" height="768" alt="Screenshot (77)" src="https://github.com/user-attachments/assets/5c40f977-3c01-47c2-815d-261dd6eb92c0" />
 
 <img width="1366" height="768" alt="Screenshot (79)" src="https://github.com/user-attachments/assets/8de848d4-f000-4388-9f24-9318b3a2b040" />
-# Pdf conversion and ai feedback
+# 🧾 PDF Conversion & AI Feedback
 The uploaded PDF resume is converted into an image for better visualization and AI processing. Our AI model analyzes the resume and provides instant feedback on structure, skills, and improvements. This feedback is displayed directly below the resume card for a seamless review.
 <img width="1366" height="768" alt="Screenshot (93)" src="https://github.com/user-attachments/assets/4c0ae905-ac96-4858-998a-cd05165a47d4" />
 
 <img width="1366" height="768" alt="Screenshot (83)" src="https://github.com/user-attachments/assets/30c11f0b-4056-4f32-8145-03f47284fd29" />
 
 
-# Resume Feedback Page
+# 🧵 Resume Feedback Page
 
 
-## Sumary 
+## Summary 
 The Resume Page allows users to upload their resume (PDF) directly through a drag-and-drop interface. It converts the PDF into an image, analyzes it using AI to simulate ATS screening, and provides real-time feedback on formatting, keywords, and content quality. All interactions happen within a clean, interactive resume card layout.
 <img width="1366" height="768" alt="Screenshot (85)" src="https://github.com/user-attachments/assets/26bac654-97d7-4364-b6b4-7c13e8b983ef" />
 
