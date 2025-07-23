@@ -54,19 +54,12 @@ If you're getting started and need assistance or face any bugs, join our active 
 
 ## 🔋 Features
 
-- **👉 Easy & convenient auth:** Handle authentication entirely in the browser using Puter.js—no backend or setup required.
-
-- **👉 Resume upload & storage:** Let users upload and store all their resumes in one place, safely and reliably.
-
-- **👉 AI resume matching:** Provide a job listing and get an ATS score with custom feedback tailored to each resume.
-
-- **👉 Reusable, modern UI:** Built with clean, consistent components for a great-looking and maintainable interface.
-
-- **👉 Code Reusability:** Leverage reusable components and a modular codebase for efficient development.
-
-- **👉 Cross-Device Compatibility:** Fully responsive design that works seamlessly across all devices.
-
-- **👉 Modern UI/UX:** Clean, responsive design built with Tailwind CSS and shadcn/ui for a sleek user experience.
+- **🔐 Seamless Auth:** Browser-based login via Puter.js—no backend needed.
+- **📤 Resume Upload:** Securely upload and store multiple resumes.
+- **🤖 AI Matching:** Get ATS scores and tailored feedback per job listing.
+- **🧱 Modular UI:** Reusable, responsive components for clean design.
+- **📱 Device Ready:** Fully responsive across all screens.
+- **🎨 Modern Design:** Sleek UI with Tailwind CSS and shadcn/ui.
 
 - 
 
