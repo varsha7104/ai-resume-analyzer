@@ -14,7 +14,7 @@ AI-powered Resume Analyzer built with React & Puter.js. Includes seamless auth, 
   - [📄 Resume Card](#-resume-card)
   - [🔐 Authentication & Puter AI](#-authentication--puter-ai)
   - [📤 Upload File Component](#-upload-file-component)
-  - [🧾 PDF Conversion & AI Feedback](#-pdf-conversion--ai-feedback)
+  - [🧾 PDF Conversion & AI Feedback](#-pdf-conversion--ai-feedback) 
   - [🧵 Resume Feedback Page](#-resume-feedback-page)
   - [📊 ATS Simulation](#-ats-simulation)
   - [🧠 Resume Analysis Page](#-resume-analysis-page)
