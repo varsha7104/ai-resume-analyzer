@@ -9,8 +9,17 @@ AI-powered Resume Analyzer built with React & Puter.js. Includes seamless auth, 
 - [⚙️ Tech Stack](#-tech-stack)
 - [🔋 Features](#-features)
 - [🤸 Project WalkThrough](#-project-walkthrough)
-- [🔗 Assets](#-assets)
-- [🚀 More](#-more)
+  - [🔧 Requirements](#-requirements)
+  - [🏠 Homepage & Navbar](#-homepage--navbar)
+  - [📄 Resume Card](#-resume-card)
+  - [🔐 Authentication & Puter AI](#-authentication--puter-ai)
+  - [📤 Upload File Component](#-upload-file-component)
+  - [🧾 PDF Conversion & AI Feedback](#-pdf-conversion--ai-feedback)
+  - [🧵 Resume Feedback Page](#-resume-feedback-page)
+  - [📊 ATS Simulation](#-ats-simulation)
+  - [🧠 Resume Analysis Page](#-resume-analysis-page)
+  - [🧹 Wipe Functionality](#-wipe-functionality)
+  - [✅ Final Page Outcome](#-final-page-outcome)
 
 
 ---
@@ -103,24 +112,39 @@ The Resume Upload component is embedded inside the resume card for a smooth user
 <img width="1366" height="768" alt="Screenshot (77)" src="https://github.com/user-attachments/assets/5c40f977-3c01-47c2-815d-261dd6eb92c0" />
 
 <img width="1366" height="768" alt="Screenshot (79)" src="https://github.com/user-attachments/assets/8de848d4-f000-4388-9f24-9318b3a2b040" />
+# Pdf conversion and ai feedback
+The uploaded PDF resume is converted into an image for better visualization and AI processing. Our AI model analyzes the resume and provides instant feedback on structure, skills, and improvements. This feedback is displayed directly below the resume card for a seamless review.
+<img width="1366" height="768" alt="Screenshot (93)" src="https://github.com/user-attachments/assets/4c0ae905-ac96-4858-998a-cd05165a47d4" />
 
-<img width="1366" height="768" alt="Screenshot (80)" src="https://github.com/user-attachments/assets/0e8cf8f5-20df-41af-b9f6-ca46710e4307" />
-<img width="1366" height="768" alt="Screenshot (81)" src="https://github.com/user-attachments/assets/43844005-61e5-44f2-989e-905d519cf556" />
 <img width="1366" height="768" alt="Screenshot (83)" src="https://github.com/user-attachments/assets/30c11f0b-4056-4f32-8145-03f47284fd29" />
 
-<img width="1366" height="768" alt="Screenshot (84)" src="https://github.com/user-attachments/assets/227e5260-240a-4d0b-9f49-9141de661326" />
 
+# Resume Feedback Page
+
+
+## Sumary 
+The Resume Page allows users to upload their resume (PDF) directly through a drag-and-drop interface. It converts the PDF into an image, analyzes it using AI to simulate ATS screening, and provides real-time feedback on formatting, keywords, and content quality. All interactions happen within a clean, interactive resume card layout.
 <img width="1366" height="768" alt="Screenshot (85)" src="https://github.com/user-attachments/assets/26bac654-97d7-4364-b6b4-7c13e8b983ef" />
+
+## ATS
+
+The uploaded PDF is converted to an image and scanned by the AI to simulate ATS (Applicant Tracking System) screening. The system checks formatting, keywords, and section clarity. Based on this, users receive actionable feedback to improve ATS compatibility and resume quality.
 
 <img width="1366" height="768" alt="Screenshot (86)" src="https://github.com/user-attachments/assets/9e4c2012-f838-46fb-b9dc-8049a3580114" />
 
-<img width="1366" height="768" alt="Screenshot (87)" src="https://github.com/user-attachments/assets/a49edb3a-3350-4357-9c08-dc4366379c22" />
-<img width="1366" height="768" alt="Screenshot (88)" src="https://github.com/user-attachments/assets/bb487df1-06f2-4c96-bd5d-5fce36f0578e" />
+##  🧠 Resume Analysis Page
+This page displays the uploaded PDF resume preview alongside detailed AI-generated feedback based on tone, style, content, and structure. The resume is converted to an image for clear viewing, while the AI highlights formatting issues, missing action verbs, ATS compatibility, and provides improvement tips. Scores are shown for each category, helping users optimize their resume for recruiters and ATS systems.
+<img width="1366" height="768" alt="image" src="https://github.com/user-attachments/assets/a3e4201e-504a-435e-9e6b-1813ffc523b7" />
 
-<img width="1366" height="768" alt="Screenshot (89)" src="https://github.com/user-attachments/assets/99978fa4-ecc3-4740-86f0-b222c4573400" />
+## 🧹 Wipe Functionality
+The Wipe feature allows users to reset the resume upload and analysis process with a single click. It clears the uploaded PDF, preview image, and all AI feedback data from the interface. This ensures a clean state, making it easy to upload and analyze a new resume without refreshing the page.
 
-<img width="1366" height="768" alt="Screenshot (90)" src="https://github.com/user-attachments/assets/6eab1c49-e829-451a-b52c-e07ac9dbc5f2" />
-<img width="1366" height="768" alt="Screenshot (91)" src="https://github.com/user-attachments/assets/3d9b4384-e22b-490f-a32e-fe5454d15a78" />
+
+
+<img width="1366" height="768" alt="image" src="https://github.com/user-attachments/assets/0fbca71b-8400-402e-9f07-05b237312ecf" />
+
+## ✅ Final Page Outcome
+The final page presents a clean, side-by-side view of the uploaded resume and detailed AI feedback. Users can visually inspect their resume while reviewing categorized suggestions on tone, content, structure, and ATS compatibility. It offers a complete analysis with actionable insights and improvement scores to enhance resume quality and job readiness.
 
 <img width="1366" height="768" alt="Screenshot (92)" src="https://github.com/user-attachments/assets/cc7a6085-7808-4bef-b42c-e226040193aa" />
 
