@@ -89,14 +89,16 @@ I created a clean homepage with a top navbar using React and Tailwind CSS. The n
 The Resume Card displays the uploaded resume preview and AI-generated insights. I built it as a reusable component that shows key details like extracted skills, experience, and summary. It’s styled for clarity and responsiveness.
 
 <img width="1366" height="768" alt="Screenshot (70)" src="https://github.com/user-attachments/assets/15effde5-9b9f-4959-94fb-0ae15450809b" />
-
+# Authentication and Starting with Puter AI setup
+Here I have did the authentication  using puter ai .Puter AI facilitates the use of various AI technologies within applications, particularly for developers who want to easily integrate AI features without managing extensive backend infrastructure.
 
 
 <img width="1366" height="768" alt="Screenshot (73)" src="https://github.com/user-attachments/assets/15c127c3-31ec-4008-8082-2b9b0164233d" />
-<img width="1366" height="768" alt="Screenshot (74)" src="https://github.com/user-attachments/assets/8ff6f9c0-984e-4bc3-8589-2c713e9f08b4" />
-<img width="1366" height="768" alt="Screenshot (75)" src="https://github.com/user-attachments/assets/74629d01-1fe9-49e1-b993-f610d539f926" />
+
+![MixCollage-23-Jul-2025-06-13-PM-9467](https://github.com/user-attachments/assets/f3bdda39-6307-4906-a5fc-19f50efc17e4)
+
 <img width="1366" height="768" alt="Screenshot (76)" src="https://github.com/user-attachments/assets/d76a003b-700d-4555-81b9-bb0b6b8e7d48" />
-![MixCollage-22-Jul-2025-01-18-PM-5338](https://github.com/user-attachments/assets/4c61db31-a555-48da-9e37-e5b0d40ad6bb)
+
 
 <img width="1366" height="768" alt="Screenshot (77)" src="https://github.com/user-attachments/assets/5c40f977-3c01-47c2-815d-261dd6eb92c0" />
 <img width="1366" height="768" alt="Screenshot (78)" src="https://github.com/user-attachments/assets/27e9a11f-9be9-4573-ae60-ccf23c55f423" />
