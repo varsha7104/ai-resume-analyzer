@@ -86,7 +86,7 @@ If you're getting started and need assistance or face any bugs, join our active 
   npm install -g puter
 
 
-##  Home page and resume card creation 
+##  🏠 Homepage & Navbar
 🧩 Components Overview
 
 🏠 Homepage & Navbar
