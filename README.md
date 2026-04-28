@@ -2,6 +2,9 @@
 AI-powered Resume Analyzer built with React & Puter.js. Includes seamless auth, upload and store resumes,  and match candidates to jobs using smart AI evaluations. All wrapped in a clean, reusable UI.
 
 ---  
+Zustand ->simple global state management
+Puter ->local cloud computer ,auth ,storage ,database 
+react js router v7 tailwind v4 
  
 ## 📋 Table of Contents
 
